@@ -6,7 +6,7 @@
 * Loops
 ## Go Testing
 * Type
-* POinter
+* Pointer
 * Zero Value
 * Array and Silce
 * Variadic Function
