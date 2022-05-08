@@ -5,6 +5,15 @@
 * Functions
 * Loops
 ## Go Testing
+* Type
+* POinter
+* Zero Value
+* Array and Silce
+* Variadic Function
+* Map
+* Struct
+* Method
+* Pointer Receiver
 ## Go Type
 ## Go Interface
 ## Go Error
